@@ -1,0 +1,1165 @@
+﻿
+
+* {
+           margin: 0;
+           padding: 0;
+         }
+
+
+.maindiv {
+    width: 100%;
+    height: auto;
+}
+
+.mainbar {
+    width: 100%;
+    height: 40px;
+    background-color: #2052A9;
+}
+
+.content {
+    width: 9%;
+    height: 25px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 10px;
+}
+
+.content1 {
+    width: 9%;
+    height: 25px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 10px;
+}
+
+.image {
+    width: 15%;
+    height: 15px;
+    float: left;
+    margin-top: 2px;
+    margin-left: 2%;
+    marg
+}
+
+.phonenumber {
+    width: 5%;
+    height: 10px;
+    float: left;
+    font-size: 14px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.gmail {
+    width: 3%;
+    height: 10px;
+    float: left;
+    font-size: 14px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text {
+    width: 7%;
+    height: 9px;
+    float: left;
+    margin-left: 40%;
+    margin-top: 10px;
+    font-size: 13px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.contentdiv {
+   width: 7%;
+    height: 20px;
+    float: left;
+    margin-top: 8px;
+  
+    margin-left: 1%;
+    
+}
+.edit{
+    color: white;
+   text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 4%;
+}
+.sign {
+    width: 80%;
+    height: 7px;
+    float: left;
+    color: white;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 3%;
+}
+
+.contentdivone {
+    width: 10%;
+    height: 26px;
+    float: left;
+    margin-top: 8px;
+}
+
+.imagediv {
+    width: 14%;
+    height: 15px;
+    margin-left: 2%;
+    margin-top: 3px;
+    float: left;
+}
+
+.maindivcode {
+    height: 26px;
+    width: 100%;
+}
+
+.codeforhide:hover {
+    display: block;
+    height: 26px;
+    width: 100%;
+    background-color: white;
+}
+
+.language {
+    width: 35%;
+    height: 20px;
+    float: left;
+    margin-left: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topbar {
+    width: 100%;
+    height: 98px;
+}
+
+.logo {
+    width: 18%;
+    height: 98px;
+    float: left;
+    margin-left: 2%;
+  
+}
+.newtext{
+    width: 20%;
+    height: 20px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+     color:#363636;
+}
+.newtext1{
+    font-weight: bold;
+    height: 20px;
+    float: left;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:  #2052A9;
+}
+.img {
+    max-width: 90%;
+    height: 55px;
+    margin-top: 12px;
+    float: left;
+    
+}
+.housing{
+    width: 65%;
+    height: 70px;
+  
+    float: left;
+
+    margin-left: 12%;
+}
+.menutext {
+    width: 8.2%;
+    height: 30px;
+    float: left;
+    padding: 2px;
+    text-align: center;
+  background-color: red;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-weight: bold;
+}
+
+.menutextbar {
+    width: 7.2%;
+    height: 30px;
+    float: left;
+    text-align: center;
+    margin-top: 37px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+     font-weight: bold;
+}
+
+.menutextbarr {
+    width: 7.2%;
+    height: 20px;
+    float: left;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 5%;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #2C8BCD;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+     
+}
+.edit1{
+  text-decoration: none;
+     width: 8.2%;
+    height: 30px;
+    float: left;
+    padding: 2px;
+    text-align: center;
+  margin-top: 30px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-weight: bold;
+}
+.edit2{
+     width: 15%;
+    height: 30px;
+    float: left;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 3%;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+     font-weight: bold;
+     text-decoration: none;
+}
+.edit3{
+     width: 10%;
+    height: 30px;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 30px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+     font-weight: bold;
+     
+}
+.edit4{
+     width: 10%;
+    height: 20px;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+     margin-top: 20px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #2C8BCD;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+}
+.housediv {
+    width: 80%;
+    height: 450px;
+
+    padding-left: 10% ;
+    padding-right: 10%;
+ 
+    padding-bottom: 5%;
+}
+
+.firstdiv {
+    width: 100%;
+    height: 400px;
+    padding-bottom: 10%;
+  
+
+  
+}
+.photo{
+    max-width: 100%;
+    height: auto;
+   
+}
+
+
+
+
+.picture {
+    width: 100%;
+    height: 38px;
+}
+
+.picture1 {
+    max-width: 100%;
+    height: 380px;
+}
+
+.picture2 {
+    max-width: 100%;
+    height: 450px;
+}
+
+.picture3 {
+    max-width: 100%;
+    height:auto;
+}
+
+.picture4 {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+.divbox {
+    width: 95%;
+    height: 300px;
+    float: left;
+    padding-bottom: 13px;
+    margin-left: 2.5%;
+  
+    background-color:white;
+  
+}
+.divbox1{
+    width: 100%;
+    height: 90px;
+  
+}
+.divtext{
+    width: 28%;
+    height: 50px;
+  color: #4E4B42;
+    margin-top: 35px;
+    margin-left: 25px;
+    font-size: 33px;
+    font-family:  Arial, Helvetica, sans-serif;
+    float: left;
+}
+
+ 
+
+.mainbox{
+    width: 100%;
+    height: 200px;
+   
+}
+.divtext1B{
+   width: 25%;
+    height: 300px;
+    float: left;
+    margin-left: 6%;
+     transition: box-shadow .3s;
+    border-radius: 25px;
+    background-color: #F1F2F6;
+    padding: 1%;
+  
+
+}
+.divtext1B:hover {
+  box-shadow: 0 0 15px rgba(33,33,33,.2); 
+}
+.ios{
+    width: 70%;
+    height: 120px;
+  
+    margin-left: 22%;
+}
+.ios1{
+    width: 100%;
+    height: 20px;
+     font-weight: bold;
+    text-align: center;
+     font-family:  Arial, Helvetica, sans-serif;
+
+     margin-top: 20px;
+     font-size: 17px;
+}
+.iosimage{
+    max-width: 100%;
+    height: auto;
+    
+   
+}
+.iostext{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+      font-family:  Arial, Helvetica, sans-serif;
+      font-size: 15px;
+      margin-top: 10px;
+     
+}
+
+
+.divtext1C{
+    width: 20.5%;
+    height: 270px;
+    float: left;
+    border-radius: 25px;
+    padding: 1%;
+     
+     margin-left: 2%;
+     background-color: #F1F2F6;
+  
+}
+.andriodimage{
+     max-width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-top: 10px;
+}
+.andriodtext{
+     width: 100%;
+    height: 50px;
+    text-align: center;
+      font-family:  Arial, Helvetica, sans-serif;
+      font-size: 15px;
+     
+}
+
+
+.divtext1D{
+     width: 25%;
+    height: 300px;
+    float: left;
+    margin-left: 4%;
+    border-radius: 25px;
+    transition: box-shadow .3s;
+    padding: 1%;
+    background-color: #F1F2F6;
+   
+}
+.divtext1D:hover {
+  box-shadow: 0 0 15px rgba(33,33,33,.2); 
+}
+.web{
+    width: 70%;
+    height: 120px;
+  
+    margin-left: 22%;
+}
+.web1{
+    width: 100%;
+    height: 25px;
+     font-weight: bold;
+    text-align: center;
+     font-family:  Arial, Helvetica, sans-serif;
+
+     margin-top: 20px;
+     font-size: 17px;
+}
+.webimage{
+      max-width: 100%;
+    height: auto;
+   margin-top: -20px;
+}
+.webtext{
+   width: 100%;
+    height: 50px;
+    text-align: center;
+      font-family:  Arial, Helvetica, sans-serif;
+      font-size: 15px;
+    
+}
+
+
+.divtext1E{
+     width: 25%;
+    height: 300px;
+    float: left;
+    margin-left: 4%;
+    border-radius: 25px;
+   transition: box-shadow .3s;
+     padding: 1%;
+     
+      background-color: #F1F2F6;
+   
+}
+.divtext1E:hover {
+  box-shadow: 0 0 15px rgba(33,33,33,.2); 
+}
+.desktop{
+    width: 70%;
+    height: 120px;
+  
+    margin-left: 22%;
+}
+.desktop1{
+    width: 100%;
+    height: 25px;
+    font-weight: bold;
+    text-align: center;
+     font-family:  Arial, Helvetica, sans-serif;
+
+     margin-top: 20px;
+     font-size: 17px;
+}
+.desktopimage{
+     max-width: 50%;
+    height: auto;
+    margin-left: 12%;
+    margin-top: 6px;
+}
+.desktoptext{
+     width: 100%;
+    height: 50px;
+    text-align: center;
+      font-family:  Arial, Helvetica, sans-serif;
+      font-size: 15px;
+     
+}
+
+.housedivone {
+    width: 100%;
+    height: 510px;
+    
+    margin-top: 500px;
+}
+
+.firstdivone {
+    width: 37%;
+    height: 400px;
+    float: left;
+    margin-left: 10%;
+    margin-top: 20px;
+   
+
+}
+
+.seconddivone {
+    width: 37%;
+    height: 440px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 20px;
+   
+}
+
+.thirddiv4 {
+    width: 100%;
+    height: 30px;
+    font-size: 30px;
+   
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thirddiv5 {
+    width: 100%;
+    height: 110px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 26px;
+    color: #9fa9a3;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+li {
+    color: #7E8478;
+    padding: 5px;
+    margin: 5px 0;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.housedivtwo {
+    width: 100%;
+    height: 550px;
+    background-color: #F5F9FA;
+    
+}
+
+.firstdivtwo {
+    width: 37%;
+    height: 410px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 20px;
+}
+
+.seconddivtwo {
+    width: 37%;
+    height: 380px;
+    float: left;
+    margin-left: 10%;
+    margin-top: 55px;
+    
+   
+}
+
+.housedivthree {
+    width: 100%;
+    height: 510px;
+    background-color:white;
+}
+
+.firstdivthree {
+    width: 37%;
+    height: 380px;
+    float: left;
+    margin-left: 6%;
+    margin-top: 20px;
+  
+}
+
+.seconddivthree {
+    width: 37%;
+    height: 410px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 20px;
+}
+
+.housedivfour {
+    width: 100%;
+    height: 510px;
+    background-color: #F5F9FA;
+}
+
+.firstdivfour {
+    width: 37%;
+    height: 380px;
+    float: left;
+    margin-left: 6%;
+    margin-top: 20px;
+}
+
+.seconddivfour {
+    width: 37%;
+    height: 380px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 20px;
+}
+
+
+
+.housedivfive {
+    width: 100%;
+    height: 510px;
+    background-color: white;
+}
+
+.firstdivfive {
+    width: 37%;
+    height: 380px;
+    float: left;
+    margin-left: 6%;
+    margin-top: 20px;
+}
+
+.seconddivfive {
+    width: 37%;
+    height: 410px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 20px;
+}
+
+
+
+.thirddiv7 {
+    width: 100%;
+    height: 35px;
+    font-size: 30px;
+   
+    margin-top: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thirddiv7A {
+    width: 100%;
+    height: 35px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thirddiv8 {
+    width: 100%;
+    height: 33px;
+    font-size: 30px;
+    
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thirddiv9 {
+    width: 100%;
+    height: 32px;
+    font-size: 17px;
+   
+    margin-top: 3px;
+    color: #218CC4;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thirddiv10 {
+    width: 100%;
+    height: 70px;
+    font-size: 30px;
+    
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.thirddiv10A {
+    width: 100%;
+    height: 70px;
+    font-size: 30px;
+    
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.boxhouse{
+    width: 100%;
+    height: 50px;
+   
+}
+  .boxone{
+     width:19%;
+     height: 20px;
+     
+     margin-top: 35px;
+     font-size: 13px;
+     text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+     float: left;
+      color:#2052A9;
+ }
+  .policy{
+      width: 20%;
+      height: 20px;
+     margin-top: 30px;
+    margin-left: 8%;
+     float: right;
+      color:#2052A9;
+  }
+
+
+  @media screen and (max-device-width: 600px) {
+ 
+  maindiv {
+        width: 100%;
+        height: auto;
+    }
+
+    .mainbar {
+        width: 100%;
+        height: 55px;
+    }
+
+    .content {
+        width: 25%;
+        height: 40px;
+        font-size: 20px;
+        float: left;
+       
+        margin-top: 15px;
+    }
+  
+    .phonenumber{
+        color: white;
+         font-size: 13px;
+    }
+    .content1 {
+        width: 45%;
+        height: 40px;
+        margin-left: 17%;
+        font-size: 16px;
+        float: left;
+        margin-top: 15px;
+      
+    }
+    .gmail{
+         font-size: 13px;
+    }
+    
+     .text {
+        display: none;
+        visibility: hidden;
+    }
+
+       .contentdiv {
+        display: none;
+        visibility: hidden;
+    }
+
+    .contentdivone {
+        display: none;
+        visibility: hidden;
+    }
+
+
+     .topbar {
+        width: 100%;
+        height: 90px;
+     
+    }
+
+    .logo {
+        width: 40%;
+        height: 100px;
+        float: left;
+     margin-top: 10px;
+      
+    }
+    .newtext{
+        width: 32%;
+        height: 10px;
+        float: left;
+        font-size: 15px;
+    }
+    .newtext1{
+         width: 10%;
+        height: 10px;
+        float: left;
+        font-size: 15px;
+       
+    }
+      .menutext {
+        display: none;
+        visibility: hidden;
+    }
+
+    .menutextbar {
+        display: none;
+        visibility: hidden;
+    }
+    .housing{
+        width: 40%;
+        height: 60px;
+     
+        
+    }
+    .edit1{
+         display: none;
+        visibility: hidden;
+    }
+      .edit2{
+         display: none;
+        visibility: hidden;
+    }
+        .edit3{
+         display: none;
+        visibility: hidden;
+    }
+      .edit4{
+        width: 70%;
+        height: 25px;
+        float: left;
+        font-size: 11px;
+        font-weight: bold;
+        margin-left: 25%;
+        
+    }
+
+      .housediv {
+        width: 80%;
+        height: 200px;
+        margin-top: 10px;
+        
+    }
+
+    .firstdiv {
+     width: 120%;
+     height: 200px;
+     margin-left: -10%;
+    
+       
+    }
+    .photo{
+        max-width: 100%;
+        height: auto;
+       
+        
+    }
+
+
+.divbox{
+       width: 94%;
+       height: 1000px;
+    }
+      .divtext{
+          width: 100%;
+          height: 80px;
+          text-align: center;
+         margin-left: -2%;
+          font-size: 20px;
+      }
+    .divtext1{
+        display: none;
+        visibility: hidden;
+    }
+   
+     .mainbox{
+        width: 100%;
+        height: 650px;
+      
+    }
+    .divtext1B{
+        width: 88%;
+        height: 300px;
+        margin-top: -30px;
+    }
+
+    .divtext1C{
+        width: 95%;
+        height: 300px;
+       margin-top: 15px;
+       
+    }
+
+    .divtext1D{
+        width:90%;
+        height: 300px;
+        margin-top:15px ;
+    }
+
+    .divtext1E{
+        width: 90%;
+        height: 300px;
+         margin-top: 15px;
+    }
+
+.housedivone {
+        width: 100%;
+        height: 800px;
+  
+        margin-top: 1020px;
+    }
+        .firstdivone {
+        width: 90%;
+        height: 200px;
+       
+        margin-left: 5%;
+    }
+
+    .picture2 {
+        max-width: 100%;
+        height: 200px;
+        margin-left: 17%;
+    }
+
+      .seconddivone {
+        width: 100%;
+        height: 510px;
+       margin-left: -1%;
+       
+    }
+
+    
+.thirddiv4 {
+        width: 95%;
+        height: 30px;
+        margin-left: 5%;
+        font-size: 27px;
+        font-weight: normal;
+        
+    }
+ .thirddiv5 {
+        width: 98%;
+        height: 150px;
+        margin-left: 2%;
+        font-size: 17px;
+        font-weight: normal;
+       
+    }
+    ol {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        
+        width: 90%;
+        margin-left: 4%;
+    }
+ .thirddiv6 {
+        width: 25%;
+        height: 30px;
+        font-size: 12px;
+    }
+
+  .housedivtwo {
+        width: 100%;
+        height: 700px;
+        background-color: white;
+    }
+   
+  .seconddivtwo {
+        width: 70%;
+        height: 190px;
+      margin-top: -590px;
+        margin-left: 20%;
+       background-color: white;
+    }
+
+    .picture4 {
+        max-width: 100%;
+        height: 190px;
+        margin-left: 4%;
+    }
+     .firstdivtwo {
+        width: 100%;
+        height: 380px;
+        margin-left: -1%;
+       margin-top: 230px;
+       
+       
+    }
+
+     .thirddiv10 {
+        width: 90%;
+        height: 100px;
+        font-weight: normal;
+        margin-left: 3%;
+    }
+
+
+      .housedivthree {
+        width: 98%;
+        height: 700px;
+     
+       
+    }
+      .firstdivthree {
+        width: 70%;
+        height: 190px;
+     
+        margin-left: 20%;  
+      
+    }
+.picture3 {
+        max-width: 100%;
+        height: 190px;
+        margin-left: 4%;
+        
+    }
+ .seconddivthree {
+        width: 100%;
+        height: 450px;
+        margin-top: -5px;
+        margin-left: -1%;
+        
+    }
+
+    .thirddiv8 {
+        width: 100%;
+        height: 50px;
+        font-weight: normal;
+        margin-left: 3%;
+    }
+
+    .thirddiv9 {
+        width: 100%;
+        height: 20px;
+        font-weight: normal;
+        margin-left: 3%;
+    }
+
+   .housedivfour {
+        width: 98%;
+        height:700px;
+        background-color: white;
+        margin-top: -5px;
+    }
+
+ .seconddivfour {
+        width: 70%;
+        height: 190px;
+        margin-top: -620px;
+        margin-left: 15%;
+     
+     
+    }
+          .thirddiv7 {
+        width: 100%;
+        height: 45px;
+        margin-left: 3%;
+        font-weight: normal;
+       
+    }
+
+ .firstdivfour {
+        width: 100%;
+        height: 425px;
+        margin-left: -1%;
+        margin-top: 200px;
+        
+    }
+
+
+ .housedivfive {
+        width: 98%;
+        height: 660px;
+ 
+    }
+
+   .firstdivfive {
+        width: 70%;
+        height: 200px;
+      
+        margin-left: 20%;
+       
+    }
+
+    .seconddivfive {
+        width: 100%;
+        height: 400px;
+        margin-left: -1%;
+       
+    }
+     .thirddiv10A {
+        width: 100%;
+        height: 50px;
+        font-weight: normal;
+        margin-left: 3%;
+    }
+
+  .boxone{
+   
+    width: 45%;
+    
+    
+ }
+
+   .policy{
+   
+
+width: 28%;
+   }
+
+
+
+
+
+
+
+ 
+}

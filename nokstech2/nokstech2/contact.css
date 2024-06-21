@@ -1,0 +1,500 @@
+﻿* {
+           margin: 0;
+           padding: 0;
+         }
+
+body {
+}
+.maindiv {
+    width: 100%;
+    height: auto;
+}
+
+.mainbar {
+    width: 100%;
+    height: 40px;
+    background-color: #2052A9;
+}
+
+.content {
+    width: 9%;
+    height: 25px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 10px;
+}
+
+.content1 {
+    width: 9%;
+    height: 25px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 10px;
+}
+
+.image {
+    width: 15%;
+    height: 15px;
+    float: left;
+    margin-top: 2px;
+    margin-left: 2%;
+}
+
+.phonenumber {
+    width: 5%;
+    height: 10px;
+    float: left;
+    font-size: 14px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.gmail {
+    width: 3%;
+    height: 10px;
+    float: left;
+    font-size: 14px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text {
+    width: 7%;
+    height: 9px;
+    float: left;
+    margin-left: 40%;
+    margin-top: 8px;
+    font-size: 13px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.contentdiv {
+    width: 7%;
+    height: 20px;
+    float: left;
+    margin-top: 8px;
+    margin-left: 1%;
+}
+
+.sign {
+    width: 80%;
+    height: 7px;
+    float: left;
+    color: white;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 3%;
+}
+
+.contentdivone {
+    width: 10%;
+    height: 26px;
+    float: left;
+    margin-top: 8px;
+}
+
+.imagediv {
+    width: 14%;
+    height: 15px;
+    margin-left: 2%;
+    margin-top: 3px;
+    float: left;
+}
+
+.maindivcode {
+    height: 26px;
+    width: 100%;
+}
+
+.codeforhide:hover {
+    display: block;
+    height: 26px;
+    width: 100%;
+    background-color: white;
+}
+
+.language {
+    width: 35%;
+    height: 20px;
+    float: left;
+    margin-left: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topbar {
+    width: 100%;
+    height: 98px;
+}
+
+.logo {
+    width: 18%;
+    height: 98px;
+    float: left;
+    margin-left: 2%;
+   
+}
+.newtext{
+    width: 20%;
+    height: 20px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+     color:#363636;
+}
+.newtext1{
+    font-weight: bold;
+    height: 20px;
+    float: left;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:  #2052A9;
+}
+.img {
+    max-width: 90%;
+    height: 55px;
+    margin-top: 12px;
+    float: left;
+    
+}
+.edit{
+   color: white;
+   text-decoration: none;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   margin-left: 4%;
+}
+.housing{
+    width: 65%;
+    height: 70px;
+  
+    float: left;
+
+    margin-left: 12%;
+}
+.edit1{
+  text-decoration: none;
+     width: 8.2%;
+    height: 30px;
+    float: left;
+    padding: 2px;
+    text-align: center;
+  margin-top: 30px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-weight: bold;
+}
+.edit2{
+     width: 15%;
+    height: 30px;
+    float: left;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 3%;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+     font-weight: bold;
+     text-decoration: none;
+}
+.edit3{
+     width: 10%;
+    height: 30px;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 30px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+     font-weight: bold;
+     
+}
+.edit4{
+     width: 10%;
+    height: 20px;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+     margin-top: 20px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #2C8BCD;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+}
+.menutext {
+    width: 8.2%;
+    height: 30px;
+    float: left;
+    padding: 2px;
+    text-align: center;
+    margin-top: 37px;
+    margin-left: 10%;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-weight: bold;
+}
+
+.menutextbar {
+    width: 7.2%;
+    height: 30px;
+    float: left;
+    text-align: center;
+    margin-top: 37px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+     font-weight: bold;
+}
+
+.menutextbarr {
+    width: 7.2%;
+    height: 20px;
+    float: left;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 5%;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #2C8BCD;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+}
+
+.div{
+    width: 100%;
+    height: 250px;
+    margin-top: 75px;
+}
+.div1{
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#2052A9;
+    font-weight: bold;
+}
+.div2{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#2052A9;
+    font-weight: bold;
+}
+.divbox{
+    width: 25%;
+    height: 350px;
+   
+    margin-left: 5%;
+}
+.divbox1{
+    width: 100%;
+    height: 150px;
+   
+}
+.divbox1a{
+    width: 100%;
+    height: 80px;
+    margin-top: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#2052A9;
+}
+.divbox1b{
+    width: 100%;
+    height: 65px;
+    color :#757a79;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+hr.new1 {
+    width: 95%;
+  
+ color:#ececec;
+}
+.divbox1c{
+    width: 100%;
+    height: 35px;
+  color :#757a79;
+     font-size: 17px;
+}
+.boxhouse{
+    width: 100%;
+    height: 50px;
+   
+}
+  .boxone{
+     width:19%;
+     height: 20px;
+     
+     margin-top: 35px;
+     font-size: 13px;
+     text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+     float: left;
+      color:#2052A9;
+ }
+  .policy{
+      width: 20%;
+      height: 20px;
+     margin-top: 30px;
+    margin-left: 8%;
+     float: right;
+      color:#2052A9;
+  }
+@media screen and (max-device-width: 480px) {
+
+    maindiv {
+        width: 100%;
+        height: auto;
+    }
+
+    .mainbar {
+        width: 100%;
+        height: 55px;
+    }
+
+    .content {
+        width: 25%;
+        height: 40px;
+        font-size: 20px;
+        float: left;
+        margin-top: 15px;
+    }
+
+    .phonenumber {
+        color: white;
+        font-size: 13px;
+    }
+
+    .content1 {
+        width: 45%;
+        height: 40px;
+        margin-left: 17%;
+        font-size: 16px;
+        float: left;
+        margin-top: 15px;
+    }
+
+    .gmail {
+        font-size: 13px;
+    }
+
+    .text {
+        display: none;
+        visibility: hidden;
+    }
+
+    .contentdiv {
+        display: none;
+        visibility: hidden;
+    }
+
+    .contentdivone {
+        display: none;
+        visibility: hidden;
+    }
+
+
+    .topbar {
+        width: 100%;
+        height: 90px;
+    }
+
+    .logo {
+        width: 40%;
+        height: 100px;
+        float: left;
+        margin-top: 10px;
+    }
+
+    .newtext {
+        width: 32%;
+        height: 10px;
+        float: left;
+        font-size: 15px;
+    }
+
+    .newtext1 {
+        width: 10%;
+        height: 10px;
+        float: left;
+        font-size: 15px;
+    }
+
+    .menutext {
+        display: none;
+        visibility: hidden;
+    }
+
+    .menutextbar {
+        display: none;
+        visibility: hidden;
+    }
+      .housing{
+        width: 40%;
+        height: 60px;
+     
+        
+    }
+    .edit1{
+         display: none;
+        visibility: hidden;
+    }
+      .edit2{
+         display: none;
+        visibility: hidden;
+    }
+        .edit3{
+         display: none;
+        visibility: hidden;
+    }
+      .edit4{
+        width: 70%;
+        height: 25px;
+        float: left;
+        font-size: 11px;
+        font-weight: bold;
+        margin-left: 25%;
+        
+    }
+    .menutextbarr {
+        width: 25%;
+        height: 27px;
+        float: left;
+        font-size: 11px;
+        font-weight: bold;
+        margin-left: 25%;
+    }
+    .div2{
+        font-size: 16px;
+    }
+    .divbox{
+    
+        width: 70%;
+    }
+
+     .boxone{
+   
+       width: 45%;
+ }
+
+   .policy{
+      width: 28%;
+   }
+
+
+
+}

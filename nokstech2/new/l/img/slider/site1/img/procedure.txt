@@ -1,0 +1,97 @@
+CREATE OR REPLACE PROCEDURE ONLINEDDO.proc_Get_Bank_IFSC_CHECK(
+       NEW_BANK_CODE1 VARCHAR2,     
+       isExist OUT varchar2,
+       V_ACC_NO NUMBER,
+       V_BANK VARCHAR2,
+       V_IFSC_NEW VARCHAR2,P_TREA_CODE VARCHAR2,
+       c_output OUT SYS_REFCURSOR)
+ IS
+  V_CBS_FLAG varchar2(10);
+  V_IFSC VARCHAR2(50);
+  V_ACC_LENGHT NUMBER;
+  rc integer;
+  V_NO_OF_ACC NUMBER;
+V_C NUMBER;
+ BEGIN
+ IF V_BANK = 'IFCS OR NOT' THEN
+ BEGIN
+ begin
+    SELECT CBS_FLAG INTO V_CBS_FLAG FROM BANK_MASTER WHERE BANK_CODE = NEW_BANK_CODE1;
+    exception 
+    when no_data_found then
+     V_CBS_FLAG := 'N';
+     WHEN OTHERS THEN
+     V_CBS_FLAG := 'N';
+     END;
+   IF V_CBS_FLAG  = 'Y' THEN
+open c_output FOR
+          select * from DUAL;
+     isExist:='Y';
+   ELSE
+   open c_output FOR
+            select  BANK_CODE bankcode,OLD_BANK_CODE NON_CBS_BANK_CODE, branch bankname from RBIBANK_MASTER WHERE TREA_CODE = P_TREA_CODE 
+                   AND BANK_CODE = NEW_BANK_CODE1 AND TYPE = 'S';
+            isExist:='N';
+            end if;
+   END;
+ELSIF V_BANK = 'VALID IFSC' THEN
+   BEGIN
+   SELECT NVL(IFSC_CODE,'A') INTO V_IFSC FROM BANK_MASTER WHERE BANK_CODE = NEW_BANK_CODE1;
+      IF V_IFSC <> SUBSTR(V_IFSC_NEW,1,4) THEN
+open c_output FOR
+          select * from DUAL;
+        isExist:='N';
+        ELSE
+   BEGIN
+     SELECT COUNT(*) INTO V_C FROM RBI_MASTER WHERE IFSCCODE = V_IFSC_NEW; ----AND TREA_CODE = P_TREA_CODE
+     ----AND TYPE = 'S';
+END;
+IF V_C = 0 THEN
+open c_output FOR
+          select * from DUAL;
+            isExist:='N';
+ELSE
+       open c_output FOR
+          select IFSCCODE IFSC_CODE,ADDRESS BRANCH from RBI_MASTER WHERE IFSCCODE = V_IFSC_NEW ;---AND TREA_CODE = P_TREA_CODE AND TYPE = 'S';
+            isExist:='Y';
+END IF;
+      end if; 
+    END; 
+ELSIF V_BANK = 'VALID A/C NO' THEN
+  BEGIN
+    SELECT BANK_ACC_NO_LENGTH INTO V_ACC_LENGHT FROM BANK_MASTER WHERE BANK_CODE = NEW_BANK_CODE1 ;
+      IF LENGTH(V_ACC_NO) = V_ACC_LENGHT THEN
+      BEGIN
+      SELECT COUNT(*) INTO V_NO_OF_ACC FROM EMPLOYEE_MASTER_portal WHERE BANK_ACC_NO = V_ACC_NO;
+      END;
+      IF V_NO_OF_ACC = 0 THEN
+        open c_output FOR
+          select * from DUAL;
+        isExist:='Y';
+        ELSE
+        open c_output FOR
+          select * from DUAL;
+        isExist:='N';
+      END IF;
+      ELSE
+open c_output FOR
+          select * from DUAL;
+        isExist:='N';
+      END IF;
+   END; 
+   ELSIF V_BANK = 'NON IFSC ACC' THEN
+    BEGIN
+      SELECT COUNT(*) INTO V_NO_OF_ACC FROM EMPLOYEE_MASTER_portal WHERE BANK_ACC_NO = V_ACC_NO;
+      END;
+      IF V_NO_OF_ACC = 0 THEN
+        open c_output FOR
+          select * from DUAL;
+        isExist:='Y';
+        ELSE
+        open c_output FOR
+          select * from DUAL;
+        isExist:='N';
+      END IF;
+END IF;
+END;
+/

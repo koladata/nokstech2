@@ -1,0 +1,46 @@
+@media only screen and (max-width: 750px) {
+    /** {
+        margin: 0px;
+        padding: 0px;
+        width: 100%;
+    }*/
+
+
+
+    .compoundme {
+        width: 100%;
+        height: 900px;
+        /*margin-left : 5%;*/
+        margin-top: 60px;
+        background-color: red;
+    }
+
+   
+
+    #footer {
+        width: 100%;
+        height: 169px;
+        float: left;
+        clear: both;
+        display: inline-block;
+        margin-top: 12px;
+        opacity: 0.9;
+        background-color: yellow;
+        display: none;
+        /*background: linear-gradient(to top, #ccff99 3%, #ffffff 100%);*/
+    }
+
+   
+
+    
+
+    .contact {
+        float: left;
+        width: 100%;
+        height: 500px;
+        margin-top: 12px;
+        margin-left: 2%;
+        background-color : red;
+        /*background: linear-gradient(to top, #0099ff 0%, #003399 100%);*/
+    }
+}

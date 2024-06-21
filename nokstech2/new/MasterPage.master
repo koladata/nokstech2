@@ -1,0 +1,403 @@
+﻿<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Easy Living - Responsive Real Estate Template">
+<meta name="keywords" content="Themes, real estate, responsive, themeforest, Templates">
+<meta name="author" content="Rype Pixel [Chris Gipple]">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.min.js"></script>
+
+<!-- html5 support in IE8 and later -->
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<!-- CSS file links -->
+<link href="css1/bootstrap.min.css" rel="stylesheet" media="screen">
+<link href="css1/jquery.bxslider.css" rel="stylesheet" media="screen">
+
+
+<link href="css1/yamm.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css1/jquery.nouislider.min.css" rel="stylesheet" type="text/css" media="all" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css'>
+
+
+
+
+    <!-- dsdsdssssssssssssssslinks -->
+
+
+
+
+    
+<!-- CSS file links -->
+
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Q6 Hotel"/>
+<meta name="keywords" content="Themes, real estate, responsive, themeforest, Templates"/>
+<meta name="author" content="Rype Pixel [Chris Gipple]"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.min.js"></script>
+<title>Q6 HOTEL</title>
+<!-- html5 support in IE8 and later -->
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<!-- CSS file links -->
+<link href="serv/css/bootstrap.min.css" rel="stylesheet" media="screen"/>
+<link href="serv/css/jquery.bxslider.css" rel="stylesheet" media="screen"/>
+<link href="serv/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="serv/css/responsive.css" rel="stylesheet" type="text/css" media="all" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+<link href="serv/css/yamm.css" rel="stylesheet" type="text/css" media="all" />
+<link href="serv/css/jquery.nouislider.min.css" rel="stylesheet" type="text/css" media="all" />
+
+     <link rel="stylesheet" href="serv/css/components.css"/>
+     
+
+    <link rel="stylesheet" href="serv/css/template-style.css"/>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css'/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Bootstrap style --> 
+    <link id="callCss" rel="stylesheet" href="serv/themes/bootshop/bootstrap.min.css" media="screen"/>
+    <link href="serv/themes/css/base.css" rel="stylesheet" media="screen"/>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+<!-- Bootstrap style responsive -->	
+	<link href="serv/themes/css/bootstrap-responsive.min.css" rel="stylesheet"/>
+	<link href="serv/themes/css/font-awesome.css" rel="stylesheet" type="text/css"/>
+<!-- Google-code-prettify -->	
+	<link href="serv/themes/js/google-code-prettify/prettify.css" rel="stylesheet"/>
+<!-- fav and touch icons -->
+    <link rel="shortcut icon" href="serv/themes/images/ico/favicon.ico"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="serv/themes/images/ico/apple-touch-icon-144-precomposed.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="serv/themes/images/ico/apple-touch-icon-114-precomposed.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="serv/themes/images/ico/apple-touch-icon-72-precomposed.png"/>
+    <link rel="apple-touch-icon-precomposed" href="serv/themes/images/ico/apple-touch-icon-57-precomposed.png"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<script type="text/javascript">
+    function Slider() {
+        $('.slider #1').show("fade", 500);
+        $(".slider #1").delay(4500).hide("slide", { direction: 'left' }, 500);
+        var sc = $(".slider img").size();
+        var count = 2;
+        setInterval(function () {
+            $(".slider #" + count).show("slide", { direction: 'right' }, 500);
+            $(".slider #" + count).delay(4500).hide("slide", { direction: 'left' }, 500);
+
+            if (count == sc) {
+                count = 1;
+            } else {
+                count = count + 1;
+            }
+        }, 5500);
+
+    }
+</script>
+  <style>
+      .pager
+      {
+         margin-top:20px;
+      }
+
+
+
+
+
+
+  </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+     <!-- dsdsdssssssssssssssslinks -->
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div class="topm"><img class="Imgw"src="serv/images/topimagex.png" alt="Image"/>
+
+        </div>
+    <div class="firstline">
+	
+	</div>
+      
+
+
+
+      
+                  
+<div class="searchbanner">
+    <div class="div1 " > <img id="Img4"src="serv/images/pixlogo.png" alt="Image" /> </div>
+            
+ 
+    <div class="div2 ">
+
+
+        <input class="sbox" style="font-size:16px; height:40px"  type="text" placeholder="Search for products..." name="search" />
+
+
+       
+     <button class="btn btn-primary mbut" style="font-size:38px"> <i class="fa fa-search"></i></button>
+
+
+    </div>
+
+   
+
+    
+
+        <div class="divmenux">
+        <ul>
+  <li><a href="#home">About</a></li>
+  <li><a href="login2.aspx">Login</a></li>
+  <li><a href="#home">Contact</a></li>
+
+           <a href="index.aspx" ><span class="btn btn-large btn-success divmenux2">Home</span></a>
+
+</ul>
+            </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <section class="properties">
+    <div class="container">
+        <div class="row">
+        
+            <!-- START SIDEBAR -->
+            <div class="col-lg-3 col-md-3">
+                <!-- start quick search widget -->
+                
+
+               
+                <!-- start property types widget -->
+                <h3>Q6 HOTEL</h3>
+                <div class="divider"></div>
+                <div class="">
+                    <ul>
+                        <li><h4><a href="index.aspx">Home Page</a></h4></li>
+                       <%-- <li><h4><a href="newitem.aspx">Add New Sales Item</a></h4></li>--%>
+                        <li><h4><a href="viewsales.aspx">Pay Online</a></h4></li>
+                         </ul>
+                </div>
+                <!-- end property types widget -->
+            </div><!-- end col -->
+
+            <div class="col-lg-9 col-md-9">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12">
+
+                       
+
+       
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+                                     </div><!-- col -->
+                </div><!-- end row -->
+            </div><!-- end col -->
+
+        </div><!-- end row -->
+    </div><!-- end container -->
+</section>
+    <footer id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <h4><a class="footerLogo" href="#"><span>Q6 Hotel web portal</span></a></h4>
+                <p>Use this web to browse images, delete images and Adjust Item prices.</p>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <h4>CONTACT</h4>
+                <ul class="contactList">
+                    <li><img class="icon" src="images/icon-pin.png" alt="" /> Plot 6, GRA Poly Rd, Ado-Ekiti </li>
+                    <li><img class="icon" src="images/icon-phone.png" alt="" /> 07066749632</li>
+                    <li><img class="icon" src="images/icon-mail.png" alt="" /> info@q6hotel.com</li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <h4>Social Media</h4>
+                <ul>
+                    <li>q6hotel@twitter.com</li>
+                    <li>q6hotel@facebook.com</li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <h4>NEWSLETTER</h4>
+                <p>Pleae if you have complain about our product or service .</p>
+                <form class="subscribeForm" method="post" action="#">
+                    <input type="text" name="email" value="Your email" class="input footer" />
+                    <input type="submit" name="submit" value="SEND" class="buttonColor" />
+                </form>
+            </div>
+        </div><!-- end row -->
+    </div><!-- end footer container -->
+</footer>
+
+<div class="bottomBar">
+    <div class="container">
+        <p>COPYRIGHT 2019 NOKS</p>
+        <ul class="socialIcons">
+            <li><a href="#"><img src="images/icon-fb.png" alt="" /></a></li>
+            <li><a href="#"><img src="images/icon-twitter.png" alt="" /></a></li>
+            <li><a href="#"><img src="images/icon-google.png" alt="" /></a></li>
+            <li><a href="#"><img src="images/icon-rss.png" alt="" /></a></li>
+        </ul>
+    </div>
+</div>
+
+<!-- JavaScript file links -->
+<script src="js1/jquery.js"></script>			<!-- Jquery -->
+<script src="js1/bootstrap.min.js"></script>  <!-- bootstrap 3.0 -->
+<script src="js1/respond.js"></script>
+<script src="js1/jquery.bxslider.min.js"></script>           <!-- bxslider -->
+<script src="js1/tabs.js"></script>       <!-- tabs -->
+<script src="js1/jquery.nouislider.min.js"></script>  <!-- price slider -->
+<script>
+    //call bxslider for sub header section
+    $(document).ready(function () {
+        $('.bxslider').bxSlider({
+            auto: true,
+            pager: false,
+            nextSelector: '.slider-next',
+            prevSelector: '.slider-prev',
+            nextText: '<img src="images/slider-next.png" alt="slider next" />',
+            prevText: '<img src="images/slider-prev.png" alt="slider prev" />'
+        });
+    });
+</script>
+
+<script>
+    //Setup price slider 
+    var Link = $.noUiSlider.Link;
+
+    $(".priceSlider").noUiSlider({
+        range: {
+            'min': 0,
+            'max': 800000
+        }
+        , start: [150000, 550000]
+        , step: 1000
+        , margin: 100000
+        , connect: true
+        , direction: 'ltr'
+        , orientation: 'horizontal'
+        , behaviour: 'tap-drag'
+        , serialization: {
+            lower: [
+                new Link({
+                    target: $("#price-min")
+                })
+            ],
+
+            upper: [
+                new Link({
+                    target: $("#price-max")
+                })
+            ],
+
+            format: {
+                // Set formatting
+                decimals: 0,
+                thousand: ',',
+                prefix: '$'
+            }
+        }
+    });
+</script>
+
+</body>
+</html>

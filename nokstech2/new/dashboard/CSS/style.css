@@ -1,0 +1,659 @@
+﻿*{
+    margin:0px;
+    padding:0px
+}
+
+#header{
+    width: 80%;
+    height:100px;
+    float:left;
+    margin-left: 17%;
+}
+
+#sci{
+    width:40px;
+    height:40px;
+    margin-left:3px;
+    margin-top:5px;
+}
+
+#tailor{
+    
+    float:left;
+    width:30%;
+    height: 55px;
+    margin-top:20px;
+    color:white;
+}
+
+
+.compoundme{
+
+  
+    width: 70%;
+    height: 550px;
+    margin-left : 15%;
+    margin-top: 60px;
+    
+}
+
+#tot2{
+    float:right;
+    
+    /*margin-top:13px;*/
+    text-align : center ;
+    font-size:20px;
+    font-family:Arial;
+    color:white;
+    
+    height : 50px;
+    line-height : 50px;
+
+}
+
+
+#tot{
+    float:right;
+    /*margin-left: 200px;*/
+    /*margin-top:13px;*/
+    text-align : center ;
+    font-size:20px;
+    font-family:Arial;
+    color:white;
+    
+    height : 50px;
+    line-height : 50px;
+    /*clear : both ;*/
+}
+
+#firstlogo{
+    width : 100%;
+    height : 50px;
+    
+}
+#searchbox {
+   
+    float: left;
+    width: 60%;
+    height: 55px;
+    margin-top: 20px;
+    margin-left:10%;
+}
+
+.form{
+    width:100px;
+   margin-top:20px;
+   margin:auto;
+}
+
+
+.search {
+    width: 80%;
+    margin-top: 20px;
+    margin: auto;
+    font-size:15px;
+    height:30px;
+   border-radius:10px;
+
+}
+
+.submit {
+    width: 15%;
+    margin-top: 20px;
+    font-size: 20px;
+    height:30px;
+    border-radius:10px;
+   
+    
+}
+
+#hom{
+    width: 90px;
+    height: 30px;
+    background-color:green;
+    float:left;
+    margin-left : 0%;
+    color:white;
+    border-radius:10px;
+    margin-top:12px;
+    
+
+}
+#im{
+    width: 30%;
+   
+    float:left;
+    height: 30px;
+}
+
+#imm{
+    /*width:20px;*/
+    height: 20px;
+    float:left;
+    margin-left:50px;
+    margin-top:-15px;
+}
+
+#homm{
+    margin-top: 5px;
+    color:white;
+    /*margin: 30px;*/
+
+}
+#home{
+    width: 65%;
+    color:white;
+    float: left;
+    height:30px;
+   margin-left:12px;
+    font-size : 15px;
+    font-family: Arial ;
+    font-weight : bold;
+    margin-top : 3px;
+    
+}
+
+
+#house{
+    float:right;
+    width:20%;
+    height:30px;
+    margin-right: 20%;
+    margin-bottom: 2% ;
+}
+
+#redh{
+    width:100%;
+    height:30px;
+    margin-top: 12px;
+    
+}
+
+#homandhouse{
+    width:100%;
+    height:50px;
+    float:left;
+ 
+  
+}
+
+
+
+#animationbox {
+    width: 50%;
+   height :270px;
+    float: left;
+   
+    animation: 2s slider infinite;
+}
+
+#a.homeme{
+    line-height :30px;
+}
+
+
+
+.myani {
+   
+    /*margin-left: 25%;*/
+    float: left;
+    
+  
+    /*visibility : hidden ;*/
+   
+}
+
+#slider {
+    overflow: hidden;
+    /*visibility : hidden ;*/
+}
+
+    #slider figure {
+        position: relative;
+        width: 700%;
+        margin: 0;
+        left: 0;
+      
+        animation: 20s slider infinite;
+    }
+
+        #slider figure img {
+            width: 14.2%;
+            float: left;
+            height: 270px;
+           
+            background-size: cover;
+        }
+
+@keyframes slider {
+    0% {
+        left: 0;
+    }
+
+    10% {
+        left: 0;
+    }
+
+    20% {
+        left: -100;
+    }
+
+    25% {
+        left: -100%;
+    }
+
+    45% {
+        left: -100%;
+    }
+
+    50% {
+        left: -200%;
+    }
+
+   
+
+    70% {
+        left: -200%;
+    }
+
+    75% {
+        left: -300%;
+    }
+
+    95% {
+        left: -300%;
+    }
+
+    100% {
+        left: -400%;
+    }
+}  
+
+
+
+
+
+#tools{
+    width:20%;
+    height:223px;
+   margin-left: 1%;
+    float:left;
+   /*background-color : red;*/
+ 
+    
+}
+
+
+
+#all_tools1:hover{
+    background-color: burlywood;
+    cursor: pointer;
+}
+
+#all_tools2:hover{
+    background-color: burlywood;
+    cursor: pointer;
+}
+
+#all_tools3:hover{
+    background-color: burlywood;
+    cursor: pointer;
+}
+
+#all_tools4:hover{
+    background-color: burlywood;
+    cursor: pointer;
+}
+
+
+ #all_tools1{
+    width: 23%;
+    background-color: rgb(108, 86, 231);
+    /*background-color : red;*/
+    height: 129px;
+    float: left;
+    margin-top:0px;
+   margin-left: 2%;
+    
+    opacity:0.8;
+    
+}
+
+
+#all_tools2{
+    width: 23%;
+    background-color: rgb(14, 192, 82);
+    height: 129px;
+    float: left;
+    margin-left: 2%;
+   
+    
+    opacity:0.8;
+   
+}
+
+#all_tools3{
+    width: 23%;
+    background-color: rgb(14, 192, 82);
+    height: 129px;
+    float: left;
+    margin-top: 12px;
+   margin-left: 2%;
+    
+    opacity:0.8;
+   
+}
+
+#all_tools4{
+    width: 23%;
+    background-color: rgb(108, 86, 231);
+    height: 129px;
+    float: left;
+    margin-top: 12px;
+     margin-left: 2%;
+    
+    opacity:0.8;
+   
+}
+
+
+
+
+#admin{
+    float:left;
+    width:100%;
+    height:100px;
+   
+}
+
+#upad{
+    float:left;
+    width:100%;
+    height:70px;
+   margin-left: 12px;
+}
+
+
+
+#downad {
+    float: left;
+    width: 100%;
+    height: 25px;
+    font-family:Arial;
+    color:white;
+    margin-top: 35px;
+    font-size:13px;
+    text-align:center;
+    font-weight: bold;
+    background-color: hotpink;
+   
+   
+}
+
+#admph{
+    width:100%;
+    height:70px;
+}
+
+#loginicon{
+    width:50px;
+    height: 48px;
+    margin-top: 15%;
+    margin-left: 32%;
+    
+   
+}
+
+#footer {
+    width: 50%;
+    height: 169px;
+    float:left;
+  clear:both;
+    margin-top:12px;
+    opacity:0.9 ;
+     background: linear-gradient(to top, #ccff99 3%, #ffffff 100%);
+}
+
+.footercont{
+width: 50%;
+height : 99px;
+/*background-color : red;*/
+margin-left : 25%;
+margin-top : 35px;
+}
+    
+
+
+#box1{
+    
+   
+    /*width:100%;
+    float:left;*/
+}
+
+#box2 {
+    height: 125px;
+    width: 125px;
+   margin-left: 30px;
+    /*margin-bottom: 5px;
+    float:left;*/*/
+    align-content: center;
+}
+
+#footer:hover{
+    background-color: burlywood;
+    cursor: pointer;
+}
+
+#tape{
+    width:80%;
+    height:80px;
+    padding:3px;
+    margin-left: 30px;
+}
+
+#take {
+    height: 20px;
+    color: black;
+    margin-top: 5px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+
+.contact{
+    float:left;
+    width: 48%;
+    height:169px;
+    margin-top:12px;
+ 
+   
+    margin-left: 2%;
+     background: linear-gradient(to top, #0099ff 0%, #003399 100%);
+   
+}
+
+.contact:hover{
+    background-color: burlywood;
+    cursor: pointer;
+}
+
+
+
+
+
+#contactt{
+    width:50%;
+    margin-left : 25%;
+    
+    height:99px;
+    margin-top: 35px;
+    float: left;
+ 
+}
+
+#contactt img{
+    width: 100px;
+    height: 80px;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+
+
+
+@media only screen and (max-width: 750px) {
+    /** {
+        margin: 0px;
+        padding: 0px;
+        width: 100%;
+    }*/
+
+
+
+    
+
+
+    #footer {
+        width: 100%;
+        height: 169px;
+        float: left;
+        clear: both;
+        display: inline-block;
+        margin-top: 12px;
+        opacity: 0.9;
+        background-color: yellow;
+        /*display: none;*/
+        /*background: linear-gradient(to top, #ccff99 3%, #ffffff 100%);*/
+    }
+
+    .contact{
+    float:left;
+    width: 100%;
+    height:169px;
+    margin-top:12px;
+ 
+   margin-left :0%;
+ 
+     background: linear-gradient(to top, #0099ff 0%, #003399 100%);
+   
+}
+
+    .compoundme{
+
+  
+    width: 96%;
+    height: 900px;
+    margin-left : 2%;
+    margin-top: 60px;
+    /*background-color : yellow;*/
+}
+
+
+    #animationbox {
+    display : none;
+}
+
+
+
+
+     #all_tools1{
+    width: 48.5%;
+    background-color: rgb(108, 86, 231);
+    /*background-color : red;*/
+    height: 129px;
+    float: left;
+    margin-top:0px;
+   margin-left: 0%;
+    
+    opacity:0.8;
+    
+}
+
+
+#all_tools2{
+    width: 48.5%;
+    background-color: rgb(14, 192, 82);
+    height: 129px;
+    float: left;
+    margin-left: 3%;
+   
+    
+    opacity:0.8;
+   
+}
+
+#all_tools3{
+    width: 48.5%;
+    background-color: rgb(14, 192, 82);
+    height: 129px;
+    float: left;
+    margin-top: 12px;
+   margin-left: 0%;
+    
+    opacity:0.8;
+   
+}
+
+#all_tools4{
+    width: 48.5%;
+    background-color: rgb(108, 86, 231);
+    height: 129px;
+    float: left;
+    margin-top: 12px;
+     margin-left: 3%;
+    
+    opacity:0.8;
+   
+}
+   
+.compoundme{
+
+  
+    
+    height: 700px;
+   
+    
+}
+
+#contactt{
+    width:50%;
+    margin-left : 17%;
+    
+    height:99px;
+    margin-top: 35px;
+    float: left;
+ 
+}
+
+
+.footercont{
+width: 50%;
+height : 99px;
+/*background-color : red;*/
+margin-left : 17%;
+margin-top : 35px;
+}
+
+
+#take {
+    height: 20px;
+    color: black;
+    margin-top: 5px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 22%;
+    
+}
+
+
+
+
+}
+
+
+

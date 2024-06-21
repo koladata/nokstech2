@@ -1,0 +1,208 @@
+﻿<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Easy Living - Responsive Real Estate Template">
+<meta name="keywords" content="Themes, real estate, responsive, themeforest, Templates">
+<meta name="author" content="Rype Pixel [Chris Gipple]">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.min.js"></script>
+<title>Tootenhill Lagos</title>
+<!-- html5 support in IE8 and later -->
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<!-- CSS file links -->
+<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+<link href="css/jquery.bxslider.css" rel="stylesheet" media="screen">
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/responsive.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/yamm.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/jquery.nouislider.min.css" rel="stylesheet" type="text/css" media="all" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+    <section class="sliderControls" style="margin-top:50px">
+    <div>
+        <span class="slider-prev"></span>
+        <span class="slider-next"></span>
+    </div>
+</section>
+
+<section class="subHeader home bxslider" style="margin-top:-110px">
+    <div id="slide1">
+        <div class="container" style="height:300px">
+           
+        </div>
+    </div>
+    <div id="slide2">
+        <div class="container" style="height:300px">
+           
+        </div>
+    </div>
+    <div id="slide3">
+        <div class="container" style="height:300px">
+          
+        </div>
+    </div>
+</section>
+    <section class="properties">
+    <div class="container">
+        <div class="row">
+        
+            <!-- START SIDEBAR -->
+            <div class="col-lg-3 col-md-3">
+                <!-- start quick search widget -->
+                
+
+               
+                <!-- start property types widget -->
+                <h3>Tootenhill</h3>
+                <div class="divider"></div>
+                <div class="propertyTypesWidget sidebarWidget">
+                    <ul>
+                        <li><h4><a href="index.aspx">Home Page</a></h4></li>
+                       <%-- <li><h4><a href="newitem.aspx">Add New Sales Item</a></h4></li>--%>
+                        <li><h4><a href="viewsales.aspx">Buy Fabrics</a></h4></li>
+                     <%--   <li><h4><a href="listitem.aspx">List of Sales Item</a></h4></li>--%>
+                        <li><h4><a href="measurement.aspx">Take Measurement</a></h4></li>
+                        <li><h4><a href="members.aspx">Member Sign in</a></h4></li>
+                        <li><h4><a href="contactus.aspx">Contact Us</a></h4></li>
+                                 <li ><h4>   <asp:HyperLink id="li_logout" runat="server" NavigateUrl="~/index.aspx">Logout</asp:HyperLink></h4></li>               
+                    </ul>
+                </div>
+                <!-- end property types widget -->
+            </div><!-- end col -->
+
+            <div class="col-lg-9 col-md-9">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12">
+
+                       
+
+       
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+                                     </div><!-- col -->
+                </div><!-- end row -->
+            </div><!-- end col -->
+
+        </div><!-- end row -->
+    </div><!-- end container -->
+</section>
+    <footer id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <h4><a class="footerLogo" href="#"><span>Tootenhill web portal</span></a></h4>
+                <p>Use this web to browse our rage of sale clothing and fabrics, locate our 
+                    measurement submission form page to submit your measurement the you will hear 
+                    from us shotly.</p>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <h4>CONTACT</h4>
+                <ul class="contactList">
+                    <li><img class="icon" src="images/icon-pin.png" alt="" /> 123, Onipan Lagos</li>
+                    <li><img class="icon" src="images/icon-phone.png" alt="" /> +234 08023048275</li>
+                    <li><img class="icon" src="images/icon-mail.png" alt="" /> info@tootenhill.com</li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <h4>Social Media</h4>
+                <ul>
+                    <li>tootenhill@twitter .com</li>
+                    <li>tootenhill@facebook.com</li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <h4>NEWSLETTER</h4>
+                <p>Pleae if you have complain about our product or service .</p>
+                <form class="subscribeForm" method="post" action="#">
+                    <input type="text" name="email" value="Your email" class="input footer" />
+                    <input type="submit" name="submit" value="SEND" class="buttonColor" />
+                </form>
+            </div>
+        </div><!-- end row -->
+    </div><!-- end footer container -->
+</footer>
+
+<div class="bottomBar">
+    <div class="container">
+        <p>COPYRIGHT 2015</p>
+        <ul class="socialIcons">
+            <li><a href="#"><img src="images/icon-fb.png" alt="" /></a></li>
+            <li><a href="#"><img src="images/icon-twitter.png" alt="" /></a></li>
+            <li><a href="#"><img src="images/icon-google.png" alt="" /></a></li>
+            <li><a href="#"><img src="images/icon-rss.png" alt="" /></a></li>
+        </ul>
+    </div>
+</div>
+
+<!-- JavaScript file links -->
+<script src="js/jquery.js"></script>			<!-- Jquery -->
+<script src="js/bootstrap.min.js"></script>  <!-- bootstrap 3.0 -->
+<script src="js/respond.js"></script>
+<script src="js/jquery.bxslider.min.js"></script>           <!-- bxslider -->
+<script src="js/tabs.js"></script>       <!-- tabs -->
+<script src="js/jquery.nouislider.min.js"></script>  <!-- price slider -->
+<script>
+    //call bxslider for sub header section
+    $(document).ready(function () {
+        $('.bxslider').bxSlider({
+            auto: true,
+            pager: false,
+            nextSelector: '.slider-next',
+            prevSelector: '.slider-prev',
+            nextText: '<img src="images/slider-next.png" alt="slider next" />',
+            prevText: '<img src="images/slider-prev.png" alt="slider prev" />'
+        });
+    });
+</script>
+
+<script>
+    //Setup price slider 
+    var Link = $.noUiSlider.Link;
+
+    $(".priceSlider").noUiSlider({
+        range: {
+            'min': 0,
+            'max': 800000
+        }
+        , start: [150000, 550000]
+        , step: 1000
+        , margin: 100000
+        , connect: true
+        , direction: 'ltr'
+        , orientation: 'horizontal'
+        , behaviour: 'tap-drag'
+        , serialization: {
+            lower: [
+                new Link({
+                    target: $("#price-min")
+                })
+            ],
+
+            upper: [
+                new Link({
+                    target: $("#price-max")
+                })
+            ],
+
+            format: {
+                // Set formatting
+                decimals: 0,
+                thousand: ',',
+                prefix: '$'
+            }
+        }
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+sp_UpdateBlog,
+ sp_SelectAllBlog,
+
+
+Location is the field to save location info sp_SelectBlogByID
+It should be under Blog folder
+I know but one thing is that when delete row from DB it should also delete the reference Image
+
+and Newsletter images will goes in Image folder under Newsletter

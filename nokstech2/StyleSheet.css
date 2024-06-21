@@ -1,0 +1,1572 @@
+﻿body {
+}
+
+.maindiv {
+    width: 100%;
+    height: auto;
+}
+
+.mainbar {
+    width: 100%;
+    height: 40px;
+    background-color: #218CC4;
+}
+
+.content {
+    width: 9%;
+    height: 25px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 10px;
+}
+
+.content1 {
+    width: 9%;
+    height: 25px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 10px;
+}
+
+.image {
+    width: 10%;
+    height: 15px;
+    float: left;
+    margin-top: 2px;
+    margin-left: 2%;
+}
+
+.phonenumber {
+    width: 5%;
+    height: 10px;
+    float: left;
+    font-size: 14px;
+    color: white;
+}
+
+.gmail {
+    width: 3%;
+    height: 10px;
+    float: left;
+    font-size: 14px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text {
+    width: 7%;
+    height: 9px;
+    float: left;
+    margin-left: 40%;
+    margin-top: 8px;
+    font-size: 13px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contentdiv {
+    width: 5%;
+    height: 11px;
+    float: left;
+    margin-top: 8px;
+}
+
+.sign {
+    width: 80%;
+    height: 7px;
+    float: left;
+    color: white;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contentdivone {
+    width: 10%;
+    height: 26px;
+    float: left;
+    margin-top: 8px;
+}
+
+.imagediv {
+    width: 14%;
+    height: 15px;
+    margin-left: 2%;
+    margin-top: 3px;
+    float: left;
+}
+
+.maindivcode {
+    height: 26px;
+    width: 100%;
+}
+
+.codeforhide:hover {
+    display: block;
+    height: 26px;
+    width: 100%;
+    background-color: white;
+}
+
+.language {
+    width: 35%;
+    height: 20px;
+    float: left;
+    margin-left: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topbar {
+    width: 100%;
+    height: 98px;
+}
+
+.logo {
+    width: 9%;
+    height: 98px;
+    float: left;
+    margin-left: 2%;
+}
+
+.img {
+    max-width: 100%;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.menutext {
+    width: 8.2%;
+    height: 30px;
+    float: left;
+    padding: 2px;
+    text-align: center;
+    margin-top: 37px;
+    margin-left: 17%;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #034f84;
+}
+
+.menutextbar {
+    width: 7.2%;
+    height: 30px;
+    float: left;
+    text-align: center;
+    margin-top: 37px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #9fa9a3;
+}
+
+.menutextbarr {
+    width: 7.2%;
+    height: 20px;
+    float: left;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 5%;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #2C8BCD;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+}
+
+.housediv {
+    width: 100%;
+    height: 450px;
+    background-color: #EAEFF3;
+}
+
+.firstdiv {
+    width: 37%;
+    height: 380px;
+    float: left;
+    margin-left: 6%;
+    margin-top: 15px;
+}
+
+.seconddiv {
+    width: 45%;
+    height: 380px;
+    float: left;
+    margin-left: 4%;
+    margin-top: 15px;
+}
+
+
+
+.picture {
+    width: 100%;
+    height: 38px;
+}
+
+.picture1 {
+    max-width: 100%;
+    height: 380px;
+}
+
+.picture2 {
+    max-width: 100%;
+    height: auto;
+}
+
+.picture3 {
+    max-width: 100%;
+    height: 380px;
+}
+
+.picture4 {
+    max-width: 100%;
+    height: 380px;
+}
+
+.linebar {
+    width: 100%;
+    height: 85px;
+    background-color: #218CC4;
+}
+
+.divtext {
+    width: 24%;
+    height: 20px;
+    float: left;
+    margin-top: 35px;
+    margin-left: 35%;
+    color: white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.divtext1 {
+    width: 10%;
+    height: 20px;
+    float: left;
+    margin-top: 35px;
+    color: white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.housedivone {
+    width: 100%;
+    height: 510px;
+    background-color: white;
+}
+
+.firstdivone {
+    width: 37%;
+    height: 380px;
+    float: left;
+    margin-left: 6%;
+    margin-top: 20px;
+}
+
+.seconddivone {
+    width: 37%;
+    height: 410px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 20px;
+}
+
+.thirddiv4 {
+    width: 100%;
+    height: 30px;
+    font-size: 30px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thirddiv5 {
+    width: 100%;
+    height: 100px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 26px;
+    color: #9fa9a3;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+li {
+    color: #7E8478;
+    padding: 5px;
+    margin: 5px 0;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thirddiv6 {
+    width: 25%;
+    height: 20px;
+    background-color: #218CC4;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 4px;
+    color: white;
+    padding: 10px;
+    margin-left: 2%;
+    margin-top: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.housedivtwo {
+    width: 100%;
+    height: 510px;
+    background-color: #F5F9FA;
+}
+
+.firstdivtwo {
+    width: 37%;
+    height: 410px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 20px;
+}
+
+.seconddivtwo {
+    width: 37%;
+    height: 380px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 20px;
+    background-color: red;
+}
+
+.housedivthree {
+    width: 100%;
+    height: 510px;
+    background-color: white;
+}
+
+.firstdivthree {
+    width: 37%;
+    height: 380px;
+    float: left;
+    margin-left: 6%;
+    margin-top: 20px;
+}
+
+.seconddivthree {
+    width: 37%;
+    height: 410px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 20px;
+}
+
+.housedivfour {
+    width: 100%;
+    height: 510px;
+    background-color: #F5F9FA;
+}
+
+.firstdivfour {
+    width: 37%;
+    height: 380px;
+    float: left;
+    margin-left: 6%;
+    margin-top: 20px;
+}
+
+.seconddivfour {
+    width: 37%;
+    height: 380px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 20px;
+}
+
+.housedivfive {
+    width: 100%;
+    height: 510px;
+    background-color: white;
+}
+
+.firstdivfive {
+    width: 37%;
+    height: 380px;
+    float: left;
+    margin-left: 6%;
+    margin-top: 20px;
+}
+
+.seconddivfive {
+    width: 37%;
+    height: 410px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 20px;
+}
+
+.housedivsix {
+    width: 100%;
+    height: 510px;
+    background-color: #F5F9FA;
+}
+
+.firstdivsix {
+    width: 37%;
+    height: 380px;
+    float: left;
+    margin-left: 6%;
+    margin-top: 20px;
+}
+
+.seconddivsix {
+    width: 37%;
+    height: 380px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 20px;
+}
+
+.housedivseven {
+    width: 100%;
+    height: 510px;
+    background-color: white;
+}
+
+.firstdivseven {
+    width: 37%;
+    height: 380px;
+    float: left;
+    margin-left: 6%;
+    margin-top: 20px;
+}
+
+.seconddivseven {
+    width: 37%;
+    height: 410px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 20px;
+}
+
+.housediveight {
+    width: 100%;
+    height: 510px;
+    background-color: #F5F9FA;
+}
+
+.firstdiveight {
+    width: 37%;
+    height: 380px;
+    float: left;
+    margin-left: 6%;
+    margin-top: 20px;
+}
+
+.seconddiveight {
+    width: 37%;
+    height: 380px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 20px;
+}
+
+.thirddiv7 {
+    width: 100%;
+    height: 35px;
+    font-size: 30px;
+    margin-top: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thirddiv7A {
+    width: 100%;
+    height: 35px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thirddiv8 {
+    width: 100%;
+    height: 33px;
+    font-size: 30px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thirddiv9 {
+    width: 100%;
+    height: 32px;
+    font-size: 17px;
+    margin-top: 3px;
+    color: #218CC4;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thirddiv10 {
+    width: 100%;
+    height: 70px;
+    font-size: 30px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.linebar1 {
+    width: 100%;
+    height: 90px;
+    background-color: #F8D219;
+}
+
+.linebar2 {
+    width: 100%;
+    height: 90px;
+    background-color: #F8D219;
+}
+
+.divtext2 {
+    width: 25%;
+    height: 20px;
+    float: left;
+    margin-top: 35px;
+    margin-left: 36%;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.housedivnine {
+    width: 100%;
+    height: 650px;
+}
+
+.firstdivnine {
+    width: 37%;
+    height: 600px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 35px;
+}
+
+.firstdivnine1 {
+    width: 37%;
+    height: 600px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 35px;
+}
+
+.seconddivnine {
+    width: 37%;
+    height: 600px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 35px;
+}
+
+.seconddivnine1 {
+    width: 37%;
+    height: 600px;
+    float: left;
+    margin-left: 8%;
+    margin-top: 35px;
+}
+
+.thirddiv11 {
+    width: 100%;
+    height: 75px;
+    margin-top: 10px;
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thirddiv12 {
+    width: 80%;
+    height: 240px;
+    margin-left: 10%;
+    margin-top: 10px;
+    border-radius: 17px;
+}
+
+.picture10 {
+    max-width: 100%;
+    height: 200px;
+    border-radius: 17px;
+    margin-left: 19%;
+}
+
+.thirddiv13 {
+    width: 100%;
+    height: 82px;
+    margin-top: 30px;
+    font-size: 19px;
+    color: #9fa9a3;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thirddiv14 {
+    width: 37%;
+    height: 25px;
+    margin-left: 30%;
+    margin-top: 10px;
+    border-radius: 4px;
+    color: white;
+    background-color: #498061;
+    text-align: center;
+    padding: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thirddiv15 {
+    width: 37%;
+    height: 25px;
+    margin-left: 30%;
+    margin-top: 10px;
+    border-radius: 4px;
+    color: white;
+    background-color: #498061;
+    text-align: center;
+    padding: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div {
+    width: 80%;
+    height: 3px;
+    background-color: #0F7DC2;
+    margin-left: 10%;
+}
+
+.divtext3 {
+    width: 25%;
+    height: 20px;
+    float: left;
+    margin-top: 35px;
+    margin-left: 35%;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.housedivten {
+    width: 100%;
+    height: 220px;
+}
+
+.firstdivv {
+    width: 70%;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 15%;
+    background-color: #F5F9FA;
+}
+
+.boxthree {
+    width: 30%;
+    height: 88px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 9px;
+}
+
+.image1 {
+    width: 100%;
+    height: 88px;
+}
+
+.boxfour {
+    width: 30%;
+    height: 88px;
+    float: left;
+}
+
+
+.boxfive {
+    width: 70%;
+    height: 88px;
+    float: left;
+}
+
+.boxsix {
+    width: 97%;
+    height: 30px;
+    margin-left: 3%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.boxseven {
+    width: 97%;
+    height: 60px;
+    margin-left: 3%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #777068;
+}
+
+
+
+
+
+
+.housediveleven {
+    width: 100%;
+    height: 350px;
+    background-color: #1A1A1A;
+    margin-top: 10px;
+}
+
+.firstdiveleven {
+    width: 30%;
+    height: 310px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 9%;
+}
+
+.seconddiveleven {
+    width: 20%;
+    height: 310px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 2%;
+}
+
+.thirddivone {
+    width: 30%;
+    height: 310px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 3%;
+}
+
+.divone {
+    width: 100%;
+    height: 40px;
+    color: #208AB2;
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.divone1 {
+    width: 100%;
+    height: 40px;
+    color: #208AB2;
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.divtwo {
+    width: 100%;
+    height: 120px;
+    color: white;
+    font-size: 14px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.divthree {
+    width: 100%;
+    height: 50px;
+    margin-top: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.divfour {
+    width: 100%;
+    height: 80px;
+    margin-top: 20px;
+}
+
+.divfive {
+    width: 100%;
+    height: 30px;
+    color: #0F7DC2;
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.textbox {
+    width: 90%;
+    height: 35px;
+    margin-top: 10px;
+    background-color: #2F2F2F;
+    border-radius: 4px;
+}
+
+.divsix {
+    width: 14%;
+    height: 20px;
+    border-radius: 4px;
+    color: white;
+    background-color: #0F7DC2;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    font-size: 13px;
+    text-align: center;
+    padding: 10px;
+}
+
+.housedivtwelve {
+    width: 100%;
+    height: 100px;
+    background-color: #1A1A1A;
+}
+
+.divseven {
+    width: 80%;
+    height: 1px;
+    margin-left: 10%;
+    background-color: white;
+}
+
+.diveight {
+    width: 80%;
+    height: 100px;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+
+.boxone {
+    width: 18%;
+    height: 30px;
+    float: left;
+    color: dimgray;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.boxtwo {
+    width: 40%;
+    height: 40px;
+    margin-left: 40%;
+    float: left;
+}
+
+.A {
+    width: 15%;
+    height: 20px;
+    float: left;
+    margin-left: 3%;
+}
+
+.B {
+    width: 100%;
+    height: 20px;
+}
+
+.B1 {
+    width: 100%;
+    height: 20px;
+}
+
+.C {
+    width: 7%;
+    height: 20px;
+    float: left;
+    margin-left: 1%;
+}
+
+.D {
+    width: 20%;
+    height: 20px;
+    float: left;
+    font-size: 12px;
+    color: white;
+    margin-left: 8%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.E {
+    width: 28%;
+    height: 20px;
+    float: left;
+    margin-left: 3%;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.F {
+    width: 35%;
+    height: 20px;
+    float: left;
+    margin-left: 1%;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.salesplay {
+    width: 50%;
+    height: 50px;
+}
+
+.salesplaymobile {
+    width: 100%;
+    height: 100px;
+    color: #0F7DC2;
+    text-align: center;
+    font-size: 15px;
+}
+
+@media screen and (max-device-width: 480px) {
+    .mobile {
+    }
+
+    .maindiv {
+        width: 100%;
+        height: auto;
+    }
+
+    .mainbar {
+        width: 100%;
+        height: 55px;
+    }
+
+    .content {
+        width: 20%;
+        height: 70px;
+        font-size: 20px;
+    }
+
+    .content1 {
+        width: 20%;
+        height: 70px;
+        margin-left: 27%;
+        font-size: 20px;
+    }
+
+    .text {
+        display: none;
+        visibility: hidden;
+    }
+
+    .contentdiv {
+        display: none;
+        visibility: hidden;
+    }
+
+    .contentdivone {
+        display: none;
+        visibility: hidden;
+    }
+
+    .topbar {
+        width: 100%;
+        height: 90px;
+    }
+
+    .logo {
+        width: 20%;
+        height: 2px;
+        float: left;
+        margin-left: -195px;
+    }
+
+    .menutext {
+        display: none;
+        visibility: hidden;
+    }
+
+    .menutextbar {
+        display: none;
+        visibility: hidden;
+    }
+
+    .menutextbarr {
+        width: 30%;
+        height: 30px;
+        float: right;
+        margin-top: -10px;
+    }
+
+    .housediv {
+        width: 100%;
+        height: 200px;
+        margin-top: 10px;
+    }
+
+    .seconddiv {
+        width: 100%;
+        height: 200px;
+        margin-top: -400px;
+        margin-left: -3px;
+    }
+
+    .picture1 {
+        max-width: 100%;
+        height: 200px
+    }
+
+    .linebar {
+        width: 100%;
+        height: 150px;
+    }
+
+    .divtext {
+        width: 100%;
+        height: 100px;
+        float: left;
+        text-align: center;
+        font-size: 20px;
+        margin-top: -150px;
+        margin-left: -1%;
+    }
+
+    .divtext1 {
+        width: 100%;
+        height: 100px;
+        float: left;
+        text-align: center;
+        font-size: 20px;
+        margin-top: -120px;
+        margin-left: -1%;
+        font-weight: bold;
+    }
+
+    .housedivone {
+        width: 100%;
+        height: 800px;
+    }
+
+    .firstdivone {
+        width: 100%;
+        height: 200px;
+        margin-top: -10px;
+        margin-left: -2%;
+    }
+
+    .picture2 {
+        max-width: 100%;
+        height: 200px;
+        margin-left: 17%;
+    }
+
+    .seconddivone {
+        width: 100%;
+        height: 290px;
+        margin-left: 6px;
+    }
+
+    .thirddiv4 {
+        width: 100%;
+        height: 50px;
+        margin-left: 2%;
+        font-size: 27px;
+        font-weight: normal;
+    }
+
+    .thirddiv5 {
+        width: 100%;
+        height: 150px;
+        margin-left: 2%;
+        font-size: 17px;
+        font-weight: normal;
+    }
+
+    ol {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    li {
+        width: -200px;
+        color: #7E8478;
+        padding: 5px;
+        margin: 10px 0;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .thirddiv6 {
+        width: 40%;
+        height: 30px;
+    }
+
+    .housedivtwo {
+        width: 100%;
+        height: 700px;
+        background-color: white;
+    }
+
+    .seconddivtwo {
+        width: 100%;
+        height: 190px;
+        margin-top: -490px;
+        margin-left: -3px;
+        background-color: white;
+    }
+
+    .picture4 {
+        max-width: 100%;
+        height: 190px;
+        margin-left: 4px;
+    }
+
+    .firstdivtwo {
+        width: 100%;
+        height: 290px;
+        margin-left: 6px;
+        margin-top: 250px;
+    }
+
+    .thirddiv7 {
+        width: 100%;
+        height: 45px;
+        margin-left: 10px;
+        font-weight: normal;
+    }
+
+
+    .housedivthree {
+        width: 100%;
+        height: 710px;
+        margin-top: 20px;
+    }
+
+    .firstdivthree {
+        width: 100%;
+        height: 190px;
+        margin-top: -5px;
+        margin-left: 10px;
+    }
+
+    .picture3 {
+        max-width: 100%;
+        height: 190px;
+        margin-left: 4px;
+    }
+
+    .seconddivthree {
+        width: 100%;
+        height: 500px;
+        margin-top: -5px;
+        margin-left: 6px;
+    }
+
+    .thirddiv8 {
+        width: 100%;
+        height: 80px;
+        font-weight: normal;
+        margin-left: 10px;
+    }
+
+    .thirddiv9 {
+        width: 100%;
+        height: 10px;
+        font-weight: normal;
+        margin-left: 10px;
+    }
+
+    .housedivfour {
+        width: 100%;
+        height: 760px;
+        background-color: white;
+        margin-top: -5px;
+    }
+
+    .seconddivfour {
+        width: 100%;
+        height: 190px;
+        margin-top: -490px;
+        margin-left: -10px;
+    }
+
+
+
+    .firstdivfour {
+        width: 100%;
+        height: 290px;
+        margin-left: 6px;
+        margin-top: 200px;
+    }
+
+
+
+    .housedivfive {
+        width: 100%;
+        height: 690px;
+    }
+
+
+
+
+    .firstdivfive {
+        width: 100%;
+        height: 200px;
+        margin-top: -10px;
+        margin-left: 13px;
+    }
+
+    .picture3 {
+        max-width: 100%;
+        height: 200px;
+        margin-left: 17%;
+    }
+
+    .seconddivfive {
+        width: 100%;
+        height: 290px;
+        margin-left: 6px;
+    }
+
+    .thirddiv10 {
+        width: 100%;
+        height: 100px;
+        font-weight: normal;
+        margin-left: 10px;
+    }
+
+    .housedivsix {
+        width: 100%;
+        height: 760px;
+        background-color: white;
+    }
+
+    .seconddivsix {
+        width: 100%;
+        height: 190px;
+        margin-top: -490px;
+        margin-left: -10px;
+    }
+
+    .picture3 {
+        max-width: 100%;
+        height: 190px;
+        margin-left: 17px;
+    }
+
+    .firstdivsix {
+        width: 100%;
+        height: 290px;
+        margin-left: 6px;
+        margin-top: 200px;
+    }
+
+
+
+    .housedivseven {
+        width: 100%;
+        height: 690px;
+    }
+
+
+
+
+    .firstdivseven {
+        width: 100%;
+        height: 200px;
+        margin-top: -10px;
+        margin-left: -2%;
+    }
+
+    .picture3 {
+        max-width: 100%;
+        height: 200px;
+        margin-left: 17%;
+    }
+
+    .seconddivseven {
+        width: 100%;
+        height: 290px;
+        margin-left: 6px;
+    }
+
+    .thirddiv10 {
+        width: 100%;
+        height: 100px;
+        font-weight: normal;
+    }
+
+    .housediveight {
+        width: 100%;
+        height: 760px;
+        background-color: white;
+    }
+
+    .seconddiveight {
+        width: 95%;
+        height: 190px;
+        margin-top: -490px;
+        margin-left: -10px;
+    }
+
+    .picture3 {
+        max-width: 100%;
+        height: 190px;
+        margin-left: 17px;
+    }
+
+    .firstdiveight {
+        width: 100%;
+        height: 290px;
+        margin-left: 6px;
+        margin-top: 200px;
+    }
+
+
+
+    .linebar1 {
+        width: 100%;
+        height: 100px;
+        margin-top: -50px;
+    }
+
+    .divtext2 {
+        width: 90%;
+        height: 50px;
+        text-align: center;
+        font-size: 19px;
+        margin-left: -1px;
+    }
+
+    .housedivnine {
+        width: 100%;
+        height: 700px;
+    }
+
+    .firstdivnine {
+        width: 100%;
+        height: 450px;
+        margin-left: -7px;
+    }
+
+    .thirddiv11 {
+        width: 100%;
+        height: 40px;
+        text-align: center;
+        font-weight: normal;
+        font-size: 20px;
+    }
+
+    .thirddiv12 {
+        width: 100%;
+        height: 200px;
+        margin-left: -8px;
+    }
+
+    .picture10 {
+        max-width: 70%;
+        height: 200px;
+    }
+
+    .thirddiv13 {
+        width: 100%;
+        height: 70px;
+        text-align: center;
+        font-size: 15px;
+        margin-left: 2px;
+    }
+
+    .thirddiv14 {
+        width: 43%;
+        height: 25px;
+        font-size: 13px;
+        border-radius: 4px;
+        color: white;
+        text-align: center;
+    }
+
+    .seconddivnine {
+        width: 100%;
+        height: 450px;
+        margin-left: -7px;
+        margin-top: -2px;
+    }
+
+    .thirddiv15 {
+        width: 43%;
+        height: 25px;
+        font-size: 12px;
+        border-radius: 4px;
+        color: white;
+        text-align: center;
+    }
+
+    .firstdivnine1 {
+        width: 100%;
+        height: 450px;
+        margin-left: -7px;
+    }
+
+    .seconddivnine1 {
+        width: 100%;
+        height: 450px;
+        margin-left: -7px;
+        margin-top: -2px;
+    }
+
+    .div {
+        display: none;
+        visibility: hidden;
+    }
+
+    .linebar2 {
+        width: 100%;
+        height: 90px;
+        margin-top: 500px;
+    }
+
+    .divtext3 {
+        width: 90%;
+        height: 50px;
+        text-align: center;
+        font-size: 19px;
+        margin-left: -1px;
+    }
+
+    .housedivten {
+        width: 100%;
+        height: 700px;
+    }
+
+    .firstdivv {
+        width: 100%;
+        height: 700px;
+        margin-left: -2px;
+    }
+
+    .boxthree {
+        width: 100%;
+        height: 110px;
+    }
+
+    .housediveleven {
+        width: 100%;
+        height: 630px;
+    }
+
+    .firstdiveleven {
+        width: 100%;
+        height: 200px;
+        margin-left: -2px;
+        margin-top: -4px;
+    }
+
+    .divone {
+        width: 100%;
+        height: 30px;
+        margin-left: 7px;
+    }
+
+    .divone1 {
+        width: 100%;
+        height: 25px;
+    }
+
+    .divtwo {
+        width: 100%;
+        height: 50px;
+        font-size: 20px;
+        margin-left: 7px;
+    }
+
+    .A {
+        width: 25%;
+        height: 20px;
+    }
+
+    .B {
+        max-width: 100%;
+        height: 20px;
+    }
+
+    .seconddiveleven {
+        width: 100%;
+        height: 190px;
+        margin-top: -2px;
+    }
+
+    .divthree {
+        width: 100%;
+        height: 40px;
+        font-size: 15px;
+    }
+
+    .thirddivone {
+        width: 100%;
+        height: 250px;
+        margin-top: -2px;
+    }
+
+    .divfour {
+        width: 100%;
+        height: 30px;
+    }
+
+    .C {
+        width: 15%;
+        height: 25px;
+    }
+
+    .B1 {
+        max-width: 100%;
+        height: 25px;
+    }
+
+    .divsix {
+        width: 23%;
+        height: 20px;
+    }
+
+    .housedivtwelve {
+        width: 100%;
+        height: 200px;
+    }
+
+    .diveight {
+        width: 100%;
+        height: 100px;
+        margin-top: -1px;
+        margin-left: -1px;
+    }
+
+    .boxone {
+        width: 100%;
+        height: 20px;
+        margin-top: 10px;
+        margin-left: 18px;
+    }
+
+    .boxtwo {
+        width: 100%;
+        height: 80px;
+        margin-top: 10px;
+        margin-left: -8px;
+    }
+
+    .D {
+        width: 100%;
+        height: 25px;
+        font-size: 15px;
+    }
+
+    .E {
+        width: 100%;
+        height: 25px;
+        margin-left: 22px;
+        font-size: 15px;
+    }
+
+    .F {
+        width: 100%;
+        height: 25px;
+        font-size: 15px;
+        margin-left: 21px;
+    }
+}

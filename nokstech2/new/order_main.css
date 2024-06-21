@@ -1,0 +1,672 @@
+﻿  * { margin:0px; padding:0px; }
+
+h1,h2,h3,h4 { margin-top:0px; }
+
+ul li { list-style:none; }
+
+    
+
+         .orderbox_top
+        {
+              width: 17.5%;
+               height : 20px;
+              padding : 10px;
+              background-color: red;
+              position: fixed;
+              right: 2%;
+          margin-top : 0px;
+          
+                     
+        }
+
+
+          .orderbox_body
+        {
+              width: 19%;
+        
+                  height: 300px;
+              background-color: 	#f0f0e0;
+           position: fixed;
+           margin-top : 0px;
+              right: 2%;
+            
+            
+        }
+
+          .beforehead1{
+              width: 75.5%;
+          margin-left: 1%;
+                  float: left  ;
+              background-color: red ;
+              height : 20px;
+              padding : 10px;
+                /*position: fixed;*/
+               
+               margin-top : 0px;
+          }
+
+          .head1{
+
+             
+          }
+
+
+       .ecomsize
+        {
+              width: 78%;
+          margin-left: 1%;
+                  float: left  ;
+              background-color: white ;
+              margin-top : 10px;
+      
+        border: 1px red;
+        
+        }
+     
+
+        .div1{
+         height: 100px;
+          width : 17%;
+      margin-top : 0;
+
+    float:left ;
+           margin-left: 3%;
+      
+        }
+
+.ecommercelist {
+	width: 19.7%;
+    height: 280px;
+    float: left;
+    margin: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 15px;
+    align-content : center ;
+    text-decoration : none;
+  border-radius: 5px;
+   background-color: white;
+   cursor: pointer ;
+}
+
+
+.epricen {
+	
+   
+    font-size:18px;
+    color: black;
+  
+   font-weight:  200;
+   margin-top: 10px;
+}
+
+
+.forad {
+	
+   
+    font-size:10px;
+    color: #404040;
+  
+   font-weight:  900;
+   margin-top: 10px;
+
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:80%;
+  
+  text-align : center;
+  margin-bottom : 10px;
+  overflow: hidden;
+    white-space: nowrap;
+    text-overflow:ellipsis;
+}
+
+
+.forimg {
+	  
+    height: 200px;
+    max-width: 100%;
+   
+   display: block;
+    margin: 0 auto;
+  
+   
+}
+
+
+
+.epricen {
+	
+   
+    font-size:14px;
+    color: black;
+  font-family: Arial;
+   
+ 
+  
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:80%;
+   color: #404040;
+  text-align : center;
+ 
+  overflow: hidden;
+    white-space: nowrap;
+    text-overflow:ellipsis;
+}
+
+.eprice {
+	    font-size:18px;
+    color: #c44747;
+  
+   font-weight:  200;
+  
+ 
+
+
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:80%;
+   
+  text-align : center;
+  margin-bottom : 10px;
+  overflow: hidden;
+    white-space: nowrap;
+    text-overflow:ellipsis;
+}
+
+
+.forheads {
+	   font-size:16px;
+    color:white;
+    font-family : Arial ;
+    font-weight : bolder ;
+  
+   
+   margin-top : 50px;
+   margin-left : 15px;
+   vertical-align : central  ;
+   
+ 
+}
+
+
+.forheads2 {
+	   font-size:16px;
+    color:WHITE;
+    font-family : Arial ;
+    font-weight : bolder ;
+  
+   
+  
+   margin-left : 5px;
+   vertical-align : central  ;
+   
+ 
+}
+
+.ediv {
+	
+   
+  
+   background-color: black;
+  
+  
+ 
+}
+
+   
+ .eprice3 {
+    
+	-moz-box-shadow: 2px 2px 0px 0px #899599;
+	-webkit-box-shadow: 2px 2px 0px 0px #899599;
+	box-shadow: 2px 2px 0px 0px #899599;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #bab1ba));
+	background:-moz-linear-gradient(top, #ededed 5%, #bab1ba 100%);
+	background:-webkit-linear-gradient(top, #ededed 5%, #bab1ba 100%);
+	background:-o-linear-gradient(top, #ededed 5%, #bab1ba 100%);
+	background:-ms-linear-gradient(top, #ededed 5%, #bab1ba 100%);
+	background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#bab1ba',GradientType=0);
+	background-color:#ededed;
+	-moz-border-radius:9px;
+	-webkit-border-radius:9px;
+	border-radius:9px;
+	width: 100px;
+    height: 17px;
+	cursor:pointer;
+	color:#3a8a9e;
+	font-family:Arial;
+	font-size:11px;
+	padding:4px 5px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e1e2ed;
+    text-align:center;
+   
+    margin: auto;
+}
+.eprice3:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #bab1ba), color-stop(1, #ededed));
+	background:-moz-linear-gradient(top, #bab1ba 5%, #ededed 100%);
+	background:-webkit-linear-gradient(top, #bab1ba 5%, #ededed 100%);
+	background:-o-linear-gradient(top, #bab1ba 5%, #ededed 100%);
+	background:-ms-linear-gradient(top, #bab1ba 5%, #ededed 100%);
+	background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bab1ba', endColorstr='#ededed',GradientType=0);
+	background-color:#bab1ba;
+}
+.eprice3:active {
+	
+	
+}
+
+
+
+.store_closed{
+
+}
+
+.total{
+    width: 90%;
+    height: 100px;
+  
+    margin-top: 50px;
+    margin-left : 5%;
+    margin-right : 5%;
+    font-family : arial;
+    font-size : 14px;
+    font-weight : bold;
+    color: #999999;
+    
+}
+
+.totaltext{
+    width: 45%;
+    height: 100px;
+ 
+   line-height : 30px;
+    float : left;
+}
+
+.fortotal{
+    font-size : large;
+}
+.totalvalue{
+    height: 100px;
+      line-height : 30px;
+    width: 45%;
+    float : right ;
+    text-align : right;
+}
+
+.checkout{
+     width: 50%;
+    height: 50px;
+    margin-left : 20%;
+    margin-right : 25%;
+}
+
+
+.promo{
+     width: 100%;
+    height: 100px;
+    /*background-color : green;*/
+}
+.button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 4px 2px;
+  cursor: pointer;
+  color : white;
+  float: right;
+  margin-right : 3px;
+}
+.inputpromo {
+  width: 80%;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+ 
+  font-size: 12px;
+  background-color: white;
+    margin-left : 10%;
+    margin-right : 10%;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+  margin-top: 15px;
+}
+
+
+.firstline{
+      background-color: darkred;
+              height: 20px;
+              display: block;
+              width : 100%;
+              top : 0px;
+              left : 0px;
+              float : left;
+}
+
+.toimage{
+
+}
+
+.secondline{
+     background-color: red;
+              height: 45px;
+              display: block;
+              width : 100%;
+              top : 0px;
+              left : 0px;
+              float : left;
+}
+
+.thirdline{
+     background-color: white;
+              height: 45px;
+              display: block;
+              width : 100%;
+              top : 0px;
+              left : 0px;
+              float : left;
+
+              box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+.firstcontainer{
+    
+    width: 100%;
+    height : 1000px;
+   float : left;
+   position : relative ;
+   margin-top: 130px;
+  
+  
+}
+
+
+.secondcontainer{
+    
+    width: 100%;
+    height : auto;
+        position : absolute ;
+}
+
+.white_textdiv_mother{
+    width: 65%;
+    height : 40px;
+   
+       float: left;
+       margin-left : 20%;
+       margin-top : 0px;
+       /*background-color : green;*/
+}
+
+.imagee{
+    width: 20px;
+   
+}
+
+
+.imagee2{
+    width: 30px;
+   margin-left : 5px;
+}
+
+
+.imagee3{
+    width: 20px;
+   margin-left : 5px;
+
+}
+
+.forp1{
+    color: white;
+    font-size : 13px;
+    font-weight : bolder;
+     font-family :  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    
+}
+.forp2{
+    color: white;
+    font-size : 11px;
+    font-family :  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+       font-weight : bolder ;
+      
+     
+
+
+}
+
+
+
+.forp2{
+    color: white;
+    font-size : 9px;
+    font-family :  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+       font-weight : bolder ;
+      
+     
+}
+
+.white_textdiv{
+    
+    width: 26%;
+    height : 40px;
+     
+       float: left;
+       margin-left : 0%;
+        margin-top : 5px;
+        /*background-color : yellow;*/
+
+}
+.white_textdiv_middle{
+    
+    width: 20%;
+    height : 40px;
+  
+       float: left;
+       margin-left : 0%;
+        margin-top : 5px;
+         /*background-color : yellow;*/
+}
+.white_textdiv_last{
+
+    width: 35%;
+    height : 40px;
+     
+       float: left;
+       margin-left : 0%;
+        margin-top : 5px;
+         /*background-color : yellow;*/
+}
+.forfloat{
+    float : left ;
+    margin-right : 0px;
+     width: 3%;
+     /*background-color : blue;*/
+     margin-top : 5px;
+   
+}
+.forfloat2{
+    float : left ;
+    margin-right : 0px;
+     width: 40px;
+     /*background-color : blue;*/
+     margin-top : 5px;
+   
+}
+.forfloat3{
+    float : left ;
+    margin-right : 0px;
+     width: 30px;
+    
+     margin-top : 10px;
+   
+}
+
+.contactbox{
+    width: 120px;
+    height : 50px;
+    background-color : gold;
+    position: fixed ;
+    top: 0px;
+    right: 80px;
+    font-family : Arial ;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     border-bottom-left-radius: 5px;
+     border-bottom-right-radius: 5px;
+     text-align : center ;
+     color : darkred ;
+     font-weight: bolder;
+     padding: 15px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+
+.logo{
+    width: 120px;
+    height : 50px;
+ 
+    position: fixed ;
+    top:50px;
+   left: 80px;
+  
+    
+}
+
+.contactpara{
+    font-size: 20px;
+    text-shadow : unset ;
+}
+
+
+.menu1{
+    font-size: 16px;
+    text-shadow : unset ;
+    color: red;
+    float: left;
+    font-family : 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight : bolder;
+    margin-left : 20px;
+    margin-top: 15px;
+
+    
+}
+
+
+.menu1div{
+   margin-left : 20%;
+  
+   float : left;
+}
+
+
+
+
+
+
+.menu2{
+    font-size: 13px;
+    text-shadow : unset ;
+    color: red;
+    float: left;
+    font-family : 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight : bolder;
+    margin-left : 0px;
+    margin-top: 15px;
+  
+    
+}
+
+.catgroup{
+    margin-left : 30px;
+    background-color : blue;
+}
+
+
+.menu2div{
+   margin-left  : 17%;
+
+   float: left;
+   margin-top : 0px;
+   
+   width : 30%;
+}
+
+
+
+
+
+.logoimage{
+    width : 150px;
+}
+
+.topboxes{
+    width : 100%;
+    height : 120px;
+    top: 0px;
+    position: fixed;
+    z-index: 1;
+    /*background-color : blue;*/
+}
+
+
+
+
+    .myButton {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #3A42D5 5%, #476e9e 100%);
+	background-color:#3A42D5;
+	border-radius:6px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:8px 10px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+    text-align: center;
+   margin-top: 5px;
+   width : 100%;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.button {
+  background-color: red; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 22px;
+  text-align: center;
+  text-decoration: none;
+  
+  font-size: 11px;
+  float : right ;
+}
+
+.fordiscount{
+    color: darkgrey ;
+    text-align : center;
+    margin-top: 15px;
+}
