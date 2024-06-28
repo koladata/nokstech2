@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\nokstech2.props" />
+</Project>

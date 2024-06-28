@@ -1,0 +1,593 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\nokstech2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\nokstech2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\css\\Register.css",
+      "PackagePath": "staticwebassets\\css\\Register.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\css\\downloadpage.css",
+      "PackagePath": "staticwebassets\\css\\downloadpage.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\css\\pricing.css",
+      "PackagePath": "staticwebassets\\css\\pricing.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\0005.png",
+      "PackagePath": "staticwebassets\\images\\0005.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\Comp1.jpg",
+      "PackagePath": "staticwebassets\\images\\Comp1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\PNG 2.png",
+      "PackagePath": "staticwebassets\\images\\PNG 2.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\PNG 26.png",
+      "PackagePath": "staticwebassets\\images\\PNG 26.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\PNG 3.png",
+      "PackagePath": "staticwebassets\\images\\PNG 3.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\PNG I.png",
+      "PackagePath": "staticwebassets\\images\\PNG I.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\PNG II.png",
+      "PackagePath": "staticwebassets\\images\\PNG II.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\PNG.png",
+      "PackagePath": "staticwebassets\\images\\PNG.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\Untitled design(1).png",
+      "PackagePath": "staticwebassets\\images\\Untitled design(1).png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\Untitled design(2).png",
+      "PackagePath": "staticwebassets\\images\\Untitled design(2).png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\Untitled design(3).png",
+      "PackagePath": "staticwebassets\\images\\Untitled design(3).png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\Untitled design(4).png",
+      "PackagePath": "staticwebassets\\images\\Untitled design(4).png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\Untitled design(5).png",
+      "PackagePath": "staticwebassets\\images\\Untitled design(5).png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\Untitled design(8).png",
+      "PackagePath": "staticwebassets\\images\\Untitled design(8).png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\Untitled design(9).png",
+      "PackagePath": "staticwebassets\\images\\Untitled design(9).png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\Untitled design.png",
+      "PackagePath": "staticwebassets\\images\\Untitled design.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\app-store.png",
+      "PackagePath": "staticwebassets\\images\\app-store.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\apple(1).png",
+      "PackagePath": "staticwebassets\\images\\apple(1).png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\bent.jpg",
+      "PackagePath": "staticwebassets\\images\\bent.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\call(1).png",
+      "PackagePath": "staticwebassets\\images\\call(1).png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\chrome.png",
+      "PackagePath": "staticwebassets\\images\\chrome.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\correct.png",
+      "PackagePath": "staticwebassets\\images\\correct.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\crown.png",
+      "PackagePath": "staticwebassets\\images\\crown.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\double screen.jpg",
+      "PackagePath": "staticwebassets\\images\\double screen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\double screen1.jpg",
+      "PackagePath": "staticwebassets\\images\\double screen1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\exit.png",
+      "PackagePath": "staticwebassets\\images\\exit.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\facebook.png",
+      "PackagePath": "staticwebassets\\images\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\favicon.ioc.png",
+      "PackagePath": "staticwebassets\\images\\favicon.ioc.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\google-play.png",
+      "PackagePath": "staticwebassets\\images\\google-play.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\hand1.png",
+      "PackagePath": "staticwebassets\\images\\hand1.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\handheld.jpeg",
+      "PackagePath": "staticwebassets\\images\\handheld.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\idea.png",
+      "PackagePath": "staticwebassets\\images\\idea.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\image1.png",
+      "PackagePath": "staticwebassets\\images\\image1.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\image2.jpg",
+      "PackagePath": "staticwebassets\\images\\image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\image4.png",
+      "PackagePath": "staticwebassets\\images\\image4.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\imagepos1.jpeg",
+      "PackagePath": "staticwebassets\\images\\imagepos1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\imagepos2.jpeg",
+      "PackagePath": "staticwebassets\\images\\imagepos2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\imagepos3.jpg",
+      "PackagePath": "staticwebassets\\images\\imagepos3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\instagram.png",
+      "PackagePath": "staticwebassets\\images\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\log-out.png",
+      "PackagePath": "staticwebassets\\images\\log-out.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\logomain2(1).png",
+      "PackagePath": "staticwebassets\\images\\logomain2(1).png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\logomain3.0.png",
+      "PackagePath": "staticwebassets\\images\\logomain3.0.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\logomain4.0.png",
+      "PackagePath": "staticwebassets\\images\\logomain4.0.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\mission.png",
+      "PackagePath": "staticwebassets\\images\\mission.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\password.png",
+      "PackagePath": "staticwebassets\\images\\password.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\personal-computer.png",
+      "PackagePath": "staticwebassets\\images\\personal-computer.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture 14.png",
+      "PackagePath": "staticwebassets\\images\\picture 14.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture1.png",
+      "PackagePath": "staticwebassets\\images\\picture1.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture10.jpg",
+      "PackagePath": "staticwebassets\\images\\picture10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture11.png",
+      "PackagePath": "staticwebassets\\images\\picture11.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture12.png",
+      "PackagePath": "staticwebassets\\images\\picture12.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture17.jpg",
+      "PackagePath": "staticwebassets\\images\\picture17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture18.jpg",
+      "PackagePath": "staticwebassets\\images\\picture18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture19.jpg",
+      "PackagePath": "staticwebassets\\images\\picture19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture2.png",
+      "PackagePath": "staticwebassets\\images\\picture2.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture20.jpg",
+      "PackagePath": "staticwebassets\\images\\picture20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture21.jpg",
+      "PackagePath": "staticwebassets\\images\\picture21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture22.jpg",
+      "PackagePath": "staticwebassets\\images\\picture22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture23.jpg",
+      "PackagePath": "staticwebassets\\images\\picture23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture24.jpg",
+      "PackagePath": "staticwebassets\\images\\picture24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture25.jpg",
+      "PackagePath": "staticwebassets\\images\\picture25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture26.jpg",
+      "PackagePath": "staticwebassets\\images\\picture26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture27.jpg",
+      "PackagePath": "staticwebassets\\images\\picture27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture28.jpg",
+      "PackagePath": "staticwebassets\\images\\picture28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture3.png",
+      "PackagePath": "staticwebassets\\images\\picture3.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture4.png",
+      "PackagePath": "staticwebassets\\images\\picture4.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture5.png",
+      "PackagePath": "staticwebassets\\images\\picture5.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture6.png",
+      "PackagePath": "staticwebassets\\images\\picture6.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture7.png",
+      "PackagePath": "staticwebassets\\images\\picture7.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture8.jpg",
+      "PackagePath": "staticwebassets\\images\\picture8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\picture9.jpg",
+      "PackagePath": "staticwebassets\\images\\picture9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\sign-up.png",
+      "PackagePath": "staticwebassets\\images\\sign-up.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\sign.png",
+      "PackagePath": "staticwebassets\\images\\sign.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\social.png",
+      "PackagePath": "staticwebassets\\images\\social.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\web(1).png",
+      "PackagePath": "staticwebassets\\images\\web(1).png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\images\\whatsapp.png",
+      "PackagePath": "staticwebassets\\images\\whatsapp.png"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\js\\noks.js",
+      "PackagePath": "staticwebassets\\js\\noks.js"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\olale\\source\\repos\\new\\nokstech2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.nokstech2.props",
+      "PackagePath": "build\\nokstech2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.nokstech2.props",
+      "PackagePath": "buildMultiTargeting\\nokstech2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.nokstech2.props",
+      "PackagePath": "buildTransitive\\nokstech2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.nokstech2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
